@@ -1,0 +1,12 @@
+# Ignore full datasets
+data/raw/*
+data/cleaned/*
+
+# BUT keep sample files
+!data/raw/
+!data/cleaned/
+!data/raw/sample_*.csv
+!data/cleaned/sample_*.csv
+
+# System files
+.DS_Store
