@@ -1,0 +1,301 @@
+ResponseId,Age,Country,EdLevel,PlatformHaveWorkedWith,PlatformWantToWorkWith
+17854,Under 18y,Algeria,Secondary School,Amazon Web Services (AWS),Cloudflare
+31752,45-54y,Belgium,Master’s degree,Microsoft Azure,Microsoft Azure
+19107,65y+,USA,Bachelor’s degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+49656,65y+,USA,Professional degree,None,None
+23781,35-44y,Bangladesh,Master’s degree,VMware,Microsoft Azure
+22040,25-34y,USA,Bachelor’s degree,Cloudflare,Cloudflare
+38580,45-54y,India,Master’s degree,Google Cloud,OpenShift
+21595,35-44y,Nigeria,Bachelor’s degree,Netlify,VMware
+23254,25-34y,Ireland,Master’s degree,Digital Ocean,Microsoft Azure
+29651,25-34y,Spain,Associate degree,None,None
+37955,25-34y,India,Master’s degree,VMware,Firebase
+22243,35-44y,USA,Secondary School,Google Cloud,Microsoft Azure
+23738,25-34y,India,Bachelor’s degree,Google Cloud,None
+53471,18-24y,USA,Bachelor’s degree,Microsoft Azure,Microsoft Azure
+55793,18-24y,Canada,Master’s degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+9988,25-34y,Hong Kong,Bachelor’s degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+19652,18-24y,Canada,Associate degree,Google Cloud,Microsoft Azure
+14359,25-34y,Brazil,Associate degree,Supabase,Amazon Web Services (AWS)
+58867,35-44y,Poland,Bachelor’s degree,Netlify,Hetzner
+18531,25-34y,Netherlands,Secondary School,Supabase,Fly.io
+22938,18-24y,Italy,Study wo degree,Amazon Web Services (AWS),Google Cloud
+42588,18-24y,India,Bachelor’s degree,Amazon Web Services (AWS),Microsoft Azure
+54931,25-34y,Portugal,Master’s degree,Hetzner,Hetzner
+32875,35-44y,Belgium,Study wo degree,Google Cloud,Scaleway
+55139,25-34y,India,Bachelor’s degree,VMware,"Linode, now Akamai"
+3063,18-24y,India,Study wo degree,Vercel,Render
+35978,45-54y,USA,Bachelor’s degree,Amazon Web Services (AWS),Digital Ocean
+58736,18-24y,USA,Bachelor’s degree,None,None
+5803,25-34y,Brazil,Bachelor’s degree,Firebase,Amazon Web Services (AWS)
+59355,35-44y,Unknown,Unknown,None,None
+57092,45-54y,Austria,Bachelor’s degree,Microsoft Azure,Microsoft Azure
+51314,55-64y,Australia,Professional degree,Amazon Web Services (AWS),Vercel
+28586,25-34y,USA,Bachelor’s degree,None,None
+30289,18-24y,UK,Bachelor’s degree,Digital Ocean,Digital Ocean
+7285,18-24y,South Korea,Master’s degree,Amazon Web Services (AWS),Fly.io
+13698,25-34y,USA,Master’s degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+46365,25-34y,Brazil,Study wo degree,Cloudflare,Cloudflare
+51598,25-34y,Canada,Study wo degree,Cloudflare,Cloudflare
+24443,25-34y,Czechia,Master’s degree,Microsoft Azure,Google Cloud
+18662,25-34y,Ukraine,Bachelor’s degree,None,None
+4707,18-24y,India,Bachelor’s degree,Render,Render
+51463,18-24y,Sweden,Secondary School,Firebase,Cloudflare
+42405,18-24y,India,Secondary School,Microsoft Azure,Managed Hosting
+63214,35-44y,Austria,Master’s degree,Google Cloud,Databricks
+62310,25-34y,Unknown,Unknown,None,None
+22304,18-24y,USA,Bachelor’s degree,Amazon Web Services (AWS),"Linode, now Akamai"
+12123,35-44y,Iran,Primary school,Digital Ocean,"Linode, now Akamai"
+43192,18-24y,India,Bachelor’s degree,Vercel,Vercel
+51179,25-34y,South Africa,Bachelor’s degree,Vercel,Fly.io
+26791,25-34y,Belgium,Bachelor’s degree,VMware,Google Cloud
+6550,55-64y,USA,Bachelor’s degree,Oracle Cloud Infrastructure (OCI),Google Cloud
+7715,25-34y,Ukraine,Bachelor’s degree,Cloudflare,Heroku
+45091,25-34y,Costa Rica,Bachelor’s degree,Google Cloud,Microsoft Azure
+34709,25-34y,Kyrgyzstan,Study wo degree,Vercel,None
+38900,25-34y,USA,Bachelor’s degree,Supabase,Amazon Web Services (AWS)
+42406,35-44y,Thailand,Primary school,OVH,Managed Hosting
+36518,35-44y,Afghanistan,Associate degree,Microsoft Azure,Microsoft Azure
+46450,Under 18y,Netherlands,Secondary School,Cloudflare,Hetzner
+43791,25-34y,Poland,Master’s degree,OpenShift,None
+43563,25-34y,South Korea,Bachelor’s degree,Google Cloud,Firebase
+55204,18-24y,Philippines,Study wo degree,VMware,IBM Cloud Or Watson
+49677,35-44y,Serbia,Study wo degree,Fly.io,OpenStack
+41429,25-34y,India,Master’s degree,Fly.io,Render
+34961,35-44y,Saudi Arabia,Secondary School,Cloudflare,Vultr
+48604,55-64y,USA,Bachelor’s degree,Microsoft Azure,Microsoft Azure
+53951,45-54y,USA,Study wo degree,Microsoft Azure,Microsoft Azure
+25435,45-54y,India,Bachelor’s degree,PythonAnywhere,VMware
+49080,45-54y,France,Bachelor’s degree,Heroku,Microsoft Azure
+8096,25-34y,Armenia,Primary school,Databricks,Supabase
+1337,25-34y,Italy,Study wo degree,Firebase,Microsoft Azure
+41315,45-54y,USA,Bachelor’s degree,VMware,Managed Hosting
+50232,35-44y,India,Master’s degree,Firebase,Cloudflare
+8410,25-34y,Brazil,Bachelor’s degree,Firebase,Heroku
+6373,35-44y,USA,Bachelor’s degree,Heroku,None
+18301,45-54y,Portugal,Master’s degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+20353,35-44y,Sweden,Master’s degree,None,None
+26670,25-34y,India,Bachelor’s degree,Vultr,Oracle Cloud Infrastructure (OCI)
+37295,25-34y,India,Study wo degree,Vercel,Cloudflare
+42300,25-34y,India,Bachelor’s degree,Firebase,Firebase
+7809,25-34y,India,Bachelor’s degree,Netlify,Digital Ocean
+6409,25-34y,Mexico,Bachelor’s degree,Heroku,Amazon Web Services (AWS)
+13246,18-24y,India,Bachelor’s degree,None,None
+9015,25-34y,Greece,Study wo degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+26085,55-64y,USA,Bachelor’s degree,Firebase,Oracle Cloud Infrastructure (OCI)
+7125,25-34y,Taiwan,Master’s degree,Firebase,Google Cloud
+57975,25-34y,Unknown,Unknown,VMware,Netlify
+34674,35-44y,Hungary,Study wo degree,Cloudflare,Managed Hosting
+4511,18-24y,India,Bachelor’s degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+48349,Under 18y,Georgia,Something else,Vercel,Cloudflare
+60815,18-24y,Mexico,Primary school,VMware,Databricks
+15518,18-24y,India,Master’s degree,Firebase,Google Cloud
+12724,25-34y,South Africa,Professional degree,OpenStack,Amazon Web Services (AWS)
+46141,35-44y,USA,Bachelor’s degree,Amazon Web Services (AWS),None
+41283,25-34y,USA,Associate degree,Oracle Cloud Infrastructure (OCI),Oracle Cloud Infrastructure (OCI)
+138,35-44y,Argentina,Bachelor’s degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+48558,35-44y,Germany,Master’s degree,Microsoft Azure,None
+13360,35-44y,Ukraine,Master’s degree,PythonAnywhere,Firebase
+34912,35-44y,UK,Professional degree,Amazon Web Services (AWS),Cloudflare
+40054,25-34y,Thailand,Study wo degree,Alibaba Cloud,Databricks
+50103,18-24y,Egypt,Secondary School,VMware,OVH
+2015,45-54y,Canada,Associate degree,Amazon Web Services (AWS),Google Cloud
+16478,25-34y,Republic of the Congo,Master’s degree,Firebase,"Linode, now Akamai"
+20553,25-34y,India,Bachelor’s degree,VMware,Microsoft Azure
+3990,45-54y,Germany,Bachelor’s degree,Heroku,Microsoft Azure
+36155,18-24y,Brazil,Bachelor’s degree,Firebase,Amazon Web Services (AWS)
+28879,25-34y,Malaysia,Bachelor’s degree,Firebase,Cloudflare
+34169,18-24y,Italy,Secondary School,Oracle Cloud Infrastructure (OCI),Cloudflare
+51803,25-34y,USA,Master’s degree,Google Cloud,Google Cloud
+69,35-44y,Netherlands,Master’s degree,Microsoft Azure,Microsoft Azure
+24651,25-34y,Brazil,Master’s degree,Amazon Web Services (AWS),Google Cloud
+64606,25-34y,Unknown,Unknown,Heroku,Render
+24238,25-34y,Czechia,Bachelor’s degree,Heroku,Heroku
+20553,25-34y,India,Bachelor’s degree,VMware,OpenStack
+61126,25-34y,Unknown,Unknown,Netlify,Google Cloud
+40577,25-34y,Italy,Master’s degree,None,None
+7690,25-34y,Afghanistan,Primary school,Managed Hosting,Netlify
+24639,35-44y,USA,Master’s degree,Microsoft Azure,Google Cloud
+6976,25-34y,Sri Lanka,Bachelor’s degree,Google Cloud,Vultr
+42164,18-24y,Czechia,Secondary School,Vercel,Oracle Cloud Infrastructure (OCI)
+5722,25-34y,India,Bachelor’s degree,Supabase,Vercel
+7023,35-44y,Spain,Professional degree,Google Cloud,Microsoft Azure
+34548,25-34y,Pakistan,Bachelor’s degree,Managed Hosting,Amazon Web Services (AWS)
+55204,18-24y,Philippines,Study wo degree,Microsoft Azure,PythonAnywhere
+1661,25-34y,India,Master’s degree,Firebase,Amazon Web Services (AWS)
+39531,18-24y,Iraq,Bachelor’s degree,Vercel,Firebase
+38088,25-34y,Norway,Bachelor’s degree,Firebase,Google Cloud
+24742,25-34y,Indonesia,Something else,OpenShift,OVH
+64017,25-34y,Unknown,Unknown,Amazon Web Services (AWS),Amazon Web Services (AWS)
+3651,25-34y,DR Congo,Bachelor’s degree,Heroku,Amazon Web Services (AWS)
+51406,35-44y,USA,Associate degree,Amazon Web Services (AWS),Digital Ocean
+11889,45-54y,Nigeria,Master’s degree,IBM Cloud Or Watson,Oracle Cloud Infrastructure (OCI)
+10550,18-24y,Germany,Study wo degree,Hetzner,Cloudflare
+10607,25-34y,Brazil,Master’s degree,Heroku,Cloudflare
+29617,25-34y,Germany,Study wo degree,Netlify,Google Cloud
+17198,25-34y,Italy,Bachelor’s degree,Hetzner,Google Cloud
+48839,35-44y,Norway,Master’s degree,Firebase,Firebase
+25684,45-54y,Indonesia,Master’s degree,Vultr,Vercel
+8408,18-24y,Poland,Bachelor’s degree,Vercel,Vercel
+4421,45-54y,UK,Bachelor’s degree,Google Cloud,Hetzner
+55087,18-24y,Germany,Secondary School,Vercel,Amazon Web Services (AWS)
+21675,35-44y,USA,Bachelor’s degree,VMware,Amazon Web Services (AWS)
+6954,18-24y,USA,Bachelor’s degree,Heroku,Vercel
+30313,25-34y,USA,Bachelor’s degree,Amazon Web Services (AWS),Cloudflare
+20038,18-24y,Niger,Professional degree,PythonAnywhere,Hetzner
+11889,45-54y,Nigeria,Master’s degree,Cloudflare,Oracle Cloud Infrastructure (OCI)
+801,Prefer not to say,Thailand,Secondary School,Cloudflare,Microsoft Azure
+18098,35-44y,Australia,Secondary School,Vultr,None
+42021,18-24y,India,Master’s degree,Firebase,Google Cloud
+14350,18-24y,Serbia,Secondary School,Cloudflare,Cloudflare
+58238,25-34y,Unknown,Unknown,Fly.io,Fly.io
+26653,25-34y,Ukraine,Master’s degree,Google Cloud,Microsoft Azure
+45226,25-34y,UK,Study wo degree,Google Cloud,Digital Ocean
+53034,18-24y,Switzerland,Bachelor’s degree,Digital Ocean,Amazon Web Services (AWS)
+53470,45-54y,USA,Associate degree,Digital Ocean,OpenShift
+99,18-24y,Italy,Secondary School,Microsoft Azure,Microsoft Azure
+23683,35-44y,Austria,Bachelor’s degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+63201,18-24y,India,Something else,Colocation,Oracle Cloud Infrastructure (OCI)
+11601,25-34y,Brazil,Bachelor’s degree,Google Cloud,Microsoft Azure
+60626,18-24y,Unknown,Unknown,Digital Ocean,Cloudflare
+13758,Under 18y,Australia,Secondary School,VMware,Google Cloud
+8096,25-34y,Armenia,Primary school,Amazon Web Services (AWS),OVH
+57699,25-34y,USA,Bachelor’s degree,Cloudflare,Cloudflare
+58681,45-54y,Belgium,Master’s degree,Google Cloud,Render
+43441,18-24y,Italy,Secondary School,Vercel,Hetzner
+3063,18-24y,India,Study wo degree,Supabase,Amazon Web Services (AWS)
+51357,25-34y,Nigeria,Bachelor’s degree,Firebase,Heroku
+45188,25-34y,USA,Associate degree,Microsoft Azure,Databricks
+37997,25-34y,Ukraine,Master’s degree,Microsoft Azure,Cloudflare
+41104,25-34y,Brazil,Bachelor’s degree,Digital Ocean,Managed Hosting
+55139,25-34y,India,Bachelor’s degree,Amazon Web Services (AWS),Cloudflare
+42286,25-34y,France,Master’s degree,Google Cloud,Amazon Web Services (AWS)
+84,25-34y,Poland,Study wo degree,None,None
+46564,25-34y,Canada,Something else,Microsoft Azure,Alibaba Cloud
+24472,55-64y,USA,Master’s degree,Managed Hosting,None
+61933,Under 18y,Unknown,Secondary School,None,None
+26938,18-24y,Morocco,Secondary School,Amazon Web Services (AWS),Digital Ocean
+38036,25-34y,USA,Bachelor’s degree,Amazon Web Services (AWS),Vercel
+42288,18-24y,Italy,Secondary School,None,None
+51734,25-34y,UK,Master’s degree,Digital Ocean,Digital Ocean
+36566,18-24y,Brazil,Secondary School,Cloudflare,Cloudflare
+38668,35-44y,India,Bachelor’s degree,Google Cloud,Oracle Cloud Infrastructure (OCI)
+10771,25-34y,Australia,Master’s degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+30249,18-24y,Ukraine,Bachelor’s degree,Netlify,Netlify
+1817,35-44y,USA,Bachelor’s degree,Render,"Linode, now Akamai"
+23275,35-44y,Ukraine,Study wo degree,Cloudflare,Amazon Web Services (AWS)
+24216,18-24y,USA,Bachelor’s degree,Digital Ocean,Supabase
+16671,25-34y,Japan,Bachelor’s degree,Cloudflare,Cloudflare
+3982,18-24y,Viet Nam,Secondary School,Digital Ocean,Vercel
+23344,35-44y,Netherlands,Study wo degree,Databricks,Microsoft Azure
+53937,Under 18y,Mexico,Secondary School,Cloudflare,Heroku
+43567,25-34y,Unknown,Unknown,Vultr,Vultr
+35919,35-44y,UK,Bachelor’s degree,Microsoft Azure,Microsoft Azure
+29711,18-24y,UK,Secondary School,Google Cloud,Cloudflare
+35264,18-24y,Poland,Bachelor’s degree,"Linode, now Akamai",Google Cloud
+557,25-34y,Greece,Bachelor’s degree,Vercel,Netlify
+37820,18-24y,Romania,Secondary School,Amazon Web Services (AWS),"Linode, now Akamai"
+9516,18-24y,Italy,Bachelor’s degree,Heroku,Firebase
+59195,45-54y,USA,Secondary School,Alibaba Cloud,OVH
+25826,35-44y,USA,Bachelor’s degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+25295,25-34y,India,Associate degree,PythonAnywhere,Digital Ocean
+49786,18-24y,India,Bachelor’s degree,Google Cloud,Amazon Web Services (AWS)
+3197,45-54y,Netherlands,Bachelor’s degree,Microsoft Azure,Microsoft Azure
+60846,18-24y,Unknown,Unknown,Amazon Web Services (AWS),Vercel
+36139,35-44y,USA,Bachelor’s degree,Firebase,Fly.io
+47525,25-34y,France,Master’s degree,OVH,OpenStack
+24804,Under 18y,Georgia,Secondary School,Netlify,None
+38240,25-34y,Nepal,Study wo degree,Firebase,Vercel
+12130,25-34y,India,Bachelor’s degree,Cloudflare,Amazon Web Services (AWS)
+26361,18-24y,India,Bachelor’s degree,Amazon Web Services (AWS),Google Cloud
+51162,18-24y,Viet Nam,Study wo degree,Microsoft Azure,Cloudflare
+11425,18-24y,Germany,Secondary School,None,None
+5537,45-54y,UK,Bachelor’s degree,Amazon Web Services (AWS),Firebase
+35939,25-34y,Indonesia,Bachelor’s degree,Alibaba Cloud,Amazon Web Services (AWS)
+30812,45-54y,USA,Bachelor’s degree,Amazon Web Services (AWS),Google Cloud
+14669,35-44y,Egypt,Master’s degree,Supabase,OpenStack
+22895,18-24y,India,Bachelor’s degree,Supabase,Vercel
+15771,55-64y,UK,Bachelor’s degree,Google Cloud,Amazon Web Services (AWS)
+42406,35-44y,Thailand,Primary school,IBM Cloud Or Watson,Fly.io
+9259,55-64y,USA,Bachelor’s degree,Microsoft Azure,Google Cloud
+21560,55-64y,UK,Bachelor’s degree,Microsoft Azure,Digital Ocean
+2396,25-34y,USA,Bachelor’s degree,Heroku,Digital Ocean
+7690,25-34y,Afghanistan,Primary school,Heroku,Heroku
+15688,25-34y,Netherlands,Bachelor’s degree,Hetzner,Google Cloud
+18999,25-34y,Canada,Bachelor’s degree,Amazon Web Services (AWS),Vercel
+14669,35-44y,Egypt,Master’s degree,PythonAnywhere,Cloudflare
+54354,25-34y,South Africa,Primary school,OpenShift,OVH
+8892,25-34y,Bangladesh,Bachelor’s degree,Amazon Web Services (AWS),Cloudflare
+44186,45-54y,USA,Associate degree,Cloudflare,Microsoft Azure
+51567,25-34y,India,Bachelor’s degree,Firebase,Amazon Web Services (AWS)
+16821,25-34y,Malaysia,Bachelor’s degree,Amazon Web Services (AWS),Fly.io
+45454,25-34y,USA,Bachelor’s degree,None,None
+42083,18-24y,Austria,Secondary School,Google Cloud,Cloudflare
+38896,35-44y,USA,Study wo degree,Microsoft Azure,Microsoft Azure
+15356,18-24y,Ukraine,Master’s degree,Google Cloud,None
+29473,35-44y,Romania,Bachelor’s degree,Digital Ocean,Cloudflare
+15501,25-34y,Somalia,Bachelor’s degree,"Linode, now Akamai",Cloudflare
+10131,35-44y,Germany,Bachelor’s degree,Colocation,OVH
+3868,35-44y,Denmark,Bachelor’s degree,Databricks,Digital Ocean
+7690,25-34y,Afghanistan,Primary school,Digital Ocean,Databricks
+17539,18-24y,Canada,Secondary School,Render,Scaleway
+20436,55-64y,UK,Study wo degree,Microsoft Azure,Google Cloud
+19923,35-44y,Spain,Bachelor’s degree,None,None
+10951,18-24y,Ukraine,Bachelor’s degree,Vercel,Amazon Web Services (AWS)
+57120,25-34y,Ukraine,Master’s degree,Amazon Web Services (AWS),Cloudflare
+6268,45-54y,UK,Bachelor’s degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+16755,25-34y,Malaysia,Bachelor’s degree,Cloudflare,OpenStack
+9724,25-34y,Singapore,Bachelor’s degree,Vercel,Google Cloud
+24917,25-34y,Brazil,Master’s degree,Amazon Web Services (AWS),PythonAnywhere
+40350,25-34y,Spain,Master’s degree,Heroku,Databricks
+25248,35-44y,Ethiopia,Master’s degree,VMware,Google Cloud
+12193,18-24y,Pakistan,Bachelor’s degree,Netlify,Netlify
+20377,25-34y,Ukraine,Study wo degree,IBM Cloud Or Watson,Amazon Web Services (AWS)
+61550,35-44y,Lithuania,Bachelor’s degree,IBM Cloud Or Watson,VMware
+43170,18-24y,Kenya,Something else,Google Cloud,Alibaba Cloud
+58167,25-34y,India,Bachelor’s degree,OpenShift,Microsoft Azure
+18211,45-54y,Germany,Master’s degree,Microsoft Azure,Databricks
+14746,18-24y,India,Bachelor’s degree,Netlify,Cloudflare
+15180,45-54y,UK,Bachelor’s degree,Microsoft Azure,Microsoft Azure
+2743,25-34y,India,Bachelor’s degree,Amazon Web Services (AWS),Firebase
+17905,18-24y,Algeria,Master’s degree,Render,Netlify
+42558,35-44y,USA,Bachelor’s degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+2901,18-24y,Philippines,Secondary School,Amazon Web Services (AWS),Cloudflare
+49771,Prefer not to say,Netherlands,Professional degree,Microsoft Azure,Vultr
+30449,25-34y,USA,Bachelor’s degree,Cloudflare,Cloudflare
+22707,25-34y,India,Bachelor’s degree,Microsoft Azure,"Linode, now Akamai"
+49418,35-44y,Canada,Associate degree,Netlify,Cloudflare
+19134,Under 18y,Hong Kong,Secondary School,Heroku,Vercel
+21331,25-34y,UAE,Bachelor’s degree,Amazon Web Services (AWS),None
+33748,25-34y,Sri Lanka,Bachelor’s degree,Digital Ocean,Netlify
+59048,18-24y,Unknown,Unknown,Amazon Web Services (AWS),Amazon Web Services (AWS)
+55456,35-44y,USA,Master’s degree,Amazon Web Services (AWS),Google Cloud
+13573,18-24y,USA,Bachelor’s degree,Microsoft Azure,Supabase
+39080,25-34y,India,Bachelor’s degree,Digital Ocean,Amazon Web Services (AWS)
+27728,25-34y,Tanzania,Bachelor’s degree,Google Cloud,Amazon Web Services (AWS)
+62956,18-24y,Unknown,Unknown,None,None
+50567,25-34y,Brazil,Associate degree,Firebase,Google Cloud
+5423,25-34y,Brazil,Master’s degree,Supabase,Vercel
+29870,18-24y,Italy,Bachelor’s degree,Digital Ocean,Oracle Cloud Infrastructure (OCI)
+29714,35-44y,Italy,Study wo degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+46548,25-34y,USA,Bachelor’s degree,Amazon Web Services (AWS),Vercel
+55637,45-54y,USA,Master’s degree,Supabase,Supabase
+48515,25-34y,Canada,Bachelor’s degree,Firebase,Cloudflare
+56773,25-34y,Poland,Study wo degree,Firebase,Google Cloud
+15351,18-24y,Montenegro,Secondary School,Netlify,Digital Ocean
+3607,18-24y,Italy,Study wo degree,Google Cloud,Oracle Cloud Infrastructure (OCI)
+16879,25-34y,UAE,Bachelor’s degree,Heroku,Amazon Web Services (AWS)
+14249,25-34y,India,Bachelor’s degree,Amazon Web Services (AWS),Amazon Web Services (AWS)
+14669,35-44y,Egypt,Master’s degree,OpenShift,Scaleway
+18837,45-54y,Poland,Study wo degree,Microsoft Azure,OVH
+50196,35-44y,Sweden,Bachelor’s degree,Microsoft Azure,Microsoft Azure
+7516,25-34y,India,Study wo degree,Digital Ocean,Amazon Web Services (AWS)
+23166,45-54y,Netherlands,Bachelor’s degree,Amazon Web Services (AWS),Microsoft Azure
+26678,65y+,North Korea,Professional degree,"Linode, now Akamai",Vercel
+62447,35-44y,Unknown,Unknown,None,None
+48039,25-34y,UK,Study wo degree,OpenShift,Vercel
+13358,35-44y,USA,Bachelor’s degree,Microsoft Azure,"Linode, now Akamai"
+20143,25-34y,India,Bachelor’s degree,IBM Cloud Or Watson,Vultr
+42681,35-44y,USA,Secondary School,Google Cloud,Amazon Web Services (AWS)
+19105,Under 18y,USA,Study wo degree,Heroku,Netlify
+23191,18-24y,India,Bachelor’s degree,Heroku,Netlify

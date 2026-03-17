@@ -1,0 +1,301 @@
+ResponseId,Age,Country,EdLevel,LanguageHaveWorkedWith,LanguageWantToWorkWith
+54287,55-64y,Denmark,Bachelor’s degree,Delphi,Bash/Shell (all shells)
+39162,18-24y,France,Bachelor’s degree,Rust,SQL
+53462,45-54y,Australia,Bachelor’s degree,JavaScript,HTML/CSS
+6768,18-24y,USA,Bachelor’s degree,TypeScript,Bash/Shell (all shells)
+28935,18-24y,Netherlands,Study wo degree,Python,Assembly
+45143,35-44y,USA,Bachelor’s degree,TypeScript,Assembly
+36323,65y+,USA,Master’s degree,JavaScript,Go
+18774,Under 18y,Germany,Secondary School,TypeScript,C++
+55481,18-24y,Zambia,Bachelor’s degree,SQL,C
+17248,25-34y,Ukraine,Master’s degree,Bash/Shell (all shells),Swift
+36497,55-64y,Russia,Study wo degree,C,C
+4572,25-34y,Switzerland,Master’s degree,C++,Dart
+28774,25-34y,Mexico,Study wo degree,JavaScript,Python
+25283,65y+,Japan,Professional degree,Ada,Zig
+62401,25-34y,Germany,Bachelor’s degree,PowerShell,JavaScript
+36241,25-34y,USA,Bachelor’s degree,TypeScript,JavaScript
+45156,25-34y,Austria,Professional degree,Bash/Shell (all shells),C
+53654,25-34y,USA,Bachelor’s degree,Kotlin,Rust
+5995,65y+,USA,Bachelor’s degree,SQL,Java
+57806,45-54y,Canada,Bachelor’s degree,Scala,Elixir
+24173,18-24y,France,Master’s degree,C++,C++
+26180,18-24y,Poland,Secondary School,Bash/Shell (all shells),JavaScript
+64288,25-34y,Unknown,Bachelor’s degree,Python,Lisp
+14335,65y+,USA,Master’s degree,JavaScript,Assembly
+61747,25-34y,Unknown,Unknown,C++,Delphi
+15837,Under 18y,USA,Primary school,Julia,Python
+16853,45-54y,Switzerland,Bachelor’s degree,Bash/Shell (all shells),PHP
+57495,35-44y,Thailand,Bachelor’s degree,Objective-C,TypeScript
+5205,25-34y,France,Master’s degree,C#,Kotlin
+1461,35-44y,USA,Study wo degree,SQL,SQL
+63357,Under 18y,Netherlands,Secondary School,Dart,Crystal
+17665,18-24y,India,Master’s degree,C++,Elixir
+55912,18-24y,USA,Secondary School,Kotlin,SQL
+22211,25-34y,Georgia,Bachelor’s degree,TypeScript,Prolog
+56272,18-24y,USA,Bachelor’s degree,MATLAB,MicroPython
+37814,18-24y,India,Bachelor’s degree,Java,JavaScript
+26161,35-44y,USA,Master’s degree,SQL,TypeScript
+25855,18-24y,USA,Bachelor’s degree,C#,Python
+5387,25-34y,India,Bachelor’s degree,Apex,C#
+35911,25-34y,USA,Master’s degree,Go,Python
+25902,18-24y,Canada,Bachelor’s degree,C#,GDScript
+7406,35-44y,Czechia,Master’s degree,HTML/CSS,JavaScript
+30083,25-34y,Italy,Secondary School,HTML/CSS,SQL
+65073,18-24y,USA,Bachelor’s degree,C,Haskell
+42406,35-44y,Thailand,Primary school,Nim,Go
+48106,45-54y,Poland,Bachelor’s degree,Perl,TypeScript
+2411,25-34y,Canada,Bachelor’s degree,TypeScript,Go
+8368,25-34y,South Africa,Bachelor’s degree,HTML/CSS,Scala
+53613,Under 18y,Unknown,Unknown,None,None
+12287,25-34y,Finland,Study wo degree,HTML/CSS,Dart
+28998,18-24y,South Africa,Secondary School,HTML/CSS,PowerShell
+35155,18-24y,Georgia,Secondary School,HTML/CSS,HTML/CSS
+11968,18-24y,USA,Something else,R,Go
+1362,18-24y,Morocco,Secondary School,HTML/CSS,C++
+28405,25-34y,Denmark,Master’s degree,TypeScript,Kotlin
+64132,25-34y,Unknown,Master’s degree,Python,Zig
+14787,35-44y,Germany,Master’s degree,SQL,Rust
+55231,25-34y,Germany,Master’s degree,TypeScript,TypeScript
+38426,18-24y,Bangladesh,Study wo degree,Python,HTML/CSS
+7891,18-24y,Denmark,Bachelor’s degree,Groovy,HTML/CSS
+3749,45-54y,Finland,Study wo degree,C#,PowerShell
+2574,18-24y,Belgium,Bachelor’s degree,JavaScript,Python
+51249,Under 18y,Morocco,Secondary School,Python,Lua
+56147,35-44y,Canada,Master’s degree,Java,C#
+18480,25-34y,Germany,Bachelor’s degree,JavaScript,TypeScript
+45196,35-44y,Iceland,Bachelor’s degree,Go,Go
+37817,25-34y,Spain,Bachelor’s degree,PHP,TypeScript
+60339,25-34y,Unknown,Unknown,Lisp,Apex
+39879,45-54y,USA,Professional degree,TypeScript,Kotlin
+4148,25-34y,Austria,Secondary School,Rust,Elixir
+11968,18-24y,USA,Something else,HTML/CSS,Go
+31561,25-34y,Indonesia,Bachelor’s degree,Assembly,JavaScript
+64084,25-34y,Australia,Master’s degree,JavaScript,C#
+61470,18-24y,Unknown,Secondary School,TypeScript,C#
+50976,55-64y,Belgium,Master’s degree,Python,SQL
+16859,25-34y,India,Bachelor’s degree,TypeScript,C#
+17988,25-34y,Germany,Study wo degree,Objective-C,Rust
+54818,45-54y,Unknown,Unknown,Zephyr,Bash/Shell (all shells)
+33823,45-54y,USA,Study wo degree,Python,Rust
+63714,25-34y,Unknown,Unknown,Java,JavaScript
+55359,35-44y,USA,Bachelor’s degree,TypeScript,C#
+64319,45-54y,Czechia,Master’s degree,Kotlin,SQL
+18572,25-34y,Czechia,Master’s degree,C#,JavaScript
+22379,45-54y,USA,Master’s degree,JavaScript,JavaScript
+35152,35-44y,India,Bachelor’s degree,C,None
+4832,25-34y,Hungary,Study wo degree,Go,Rust
+32499,18-24y,Poland,Bachelor’s degree,C++,Python
+64014,45-54y,UK,Bachelor’s degree,HTML/CSS,Bash/Shell (all shells)
+25824,18-24y,Burkina Faso,Bachelor’s degree,C,HTML/CSS
+5651,35-44y,Netherlands,Master’s degree,MATLAB,F#
+54502,45-54y,Germany,Master’s degree,Lisp,PowerShell
+40420,25-34y,Mexico,Bachelor’s degree,Solidity,OCaml
+11327,25-34y,USA,Associate degree,Go,Dart
+36137,Under 18y,France,Something else,JavaScript,Go
+42632,35-44y,USA,Bachelor’s degree,Bash/Shell (all shells),PHP
+14606,45-54y,Canada,Professional degree,Visual Basic (.Net),Rust
+30108,18-24y,Viet Nam,Bachelor’s degree,Python,HTML/CSS
+56040,Under 18y,USA,Primary school,JavaScript,HTML/CSS
+41003,35-44y,Turkey,Bachelor’s degree,MATLAB,SQL
+50317,Under 18y,India,Secondary School,HTML/CSS,JavaScript
+2311,35-44y,USA,Study wo degree,Perl,Python
+53686,25-34y,USA,Bachelor’s degree,SQL,Zig
+23412,35-44y,Russia,Bachelor’s degree,JavaScript,HTML/CSS
+3011,18-24y,UK,Secondary School,C,Cobol
+49425,25-34y,USA,Bachelor’s degree,SQL,Python
+65154,25-34y,Kenya,Bachelor’s degree,Python,None
+62656,25-34y,Unknown,Unknown,SQL,PowerShell
+58070,35-44y,Unknown,Unknown,Java,Haskell
+28869,18-24y,India,Something else,JavaScript,Go
+5403,25-34y,Finland,Master’s degree,Python,TypeScript
+51342,55-64y,USA,Master’s degree,SQL,JavaScript
+34662,35-44y,Japan,Bachelor’s degree,TypeScript,Python
+57017,25-34y,Unknown,Unknown,Java,C#
+27760,18-24y,Germany,Secondary School,C,C++
+14302,25-34y,Ukraine,Professional degree,SQL,SQL
+31254,45-54y,Australia,Master’s degree,Assembly,TypeScript
+26678,65y+,North Korea,Professional degree,Assembly,Delphi
+52032,25-34y,Austria,Study wo degree,Rust,Kotlin
+4774,25-34y,South Africa,Study wo degree,Bash/Shell (all shells),Dart
+18489,35-44y,Sweden,Bachelor’s degree,HTML/CSS,Erlang
+21433,35-44y,Germany,Study wo degree,JavaScript,JavaScript
+57188,35-44y,Austria,Master’s degree,Python,C#
+8733,35-44y,Italy,Bachelor’s degree,Kotlin,JavaScript
+16753,25-34y,Kenya,Bachelor’s degree,Bash/Shell (all shells),Python
+13017,18-24y,Romania,Bachelor’s degree,Kotlin,PHP
+20966,35-44y,USA,Bachelor’s degree,JavaScript,Bash/Shell (all shells)
+49689,45-54y,Costa Rica,Bachelor’s degree,HTML/CSS,C#
+56707,25-34y,Iran,Bachelor’s degree,SQL,None
+64857,25-34y,Sweden,Secondary School,C,Rust
+42392,35-44y,France,Master’s degree,TypeScript,PHP
+7690,25-34y,Afghanistan,Primary school,Solidity,MicroPython
+35512,18-24y,Germany,Secondary School,HTML/CSS,Kotlin
+18924,55-64y,Argentina,Master’s degree,C,TypeScript
+31292,25-34y,China,Professional degree,Python,Python
+44069,35-44y,Colombia,Bachelor’s degree,JavaScript,TypeScript
+734,35-44y,Czechia,Study wo degree,TypeScript,HTML/CSS
+33950,25-34y,USA,Bachelor’s degree,PowerShell,HTML/CSS
+9319,18-24y,USA,Primary school,Go,C#
+7520,25-34y,Sweden,Study wo degree,SQL,None
+412,55-64y,Italy,Master’s degree,MATLAB,Python
+42042,45-54y,USA,Study wo degree,C,SQL
+20062,55-64y,Germany,Professional degree,SQL,JavaScript
+8350,18-24y,USA,Master’s degree,JavaScript,Python
+6454,18-24y,Austria,Study wo degree,TypeScript,C++
+6399,35-44y,Uruguay,Bachelor’s degree,HTML/CSS,Python
+62318,18-24y,Unknown,Unknown,HTML/CSS,Visual Basic (.Net)
+39036,25-34y,Australia,Bachelor’s degree,HTML/CSS,Python
+45485,35-44y,Singapore,Bachelor’s degree,SQL,Python
+5842,18-24y,USA,Study wo degree,JavaScript,Zig
+37353,Under 18y,Canada,Secondary School,Lua,JavaScript
+11845,18-24y,Italy,Secondary School,Python,C
+14038,35-44y,Germany,Master’s degree,JavaScript,HTML/CSS
+11923,18-24y,India,Study wo degree,HTML/CSS,Python
+58990,35-44y,Argentina,Study wo degree,SQL,TypeScript
+56666,18-24y,India,Bachelor’s degree,MATLAB,Haskell
+50196,35-44y,Sweden,Bachelor’s degree,Lua,Go
+48393,18-24y,Italy,Secondary School,C#,Ruby
+37596,18-24y,Bangladesh,Secondary School,PHP,None
+31213,25-34y,USA,Bachelor’s degree,MicroPython,Haskell
+33421,35-44y,USA,Master’s degree,Python,Python
+47568,25-34y,Italy,Secondary School,PHP,Python
+7339,25-34y,Spain,Professional degree,JavaScript,HTML/CSS
+12208,18-24y,USA,Bachelor’s degree,Python,Haskell
+32075,Prefer not to say,China,Bachelor’s degree,C,Lisp
+42675,18-24y,Brazil,Study wo degree,JavaScript,HTML/CSS
+12853,Under 18y,USA,Secondary School,PHP,Python
+50687,25-34y,India,Master’s degree,SQL,Go
+47697,35-44y,Turkey,Master’s degree,HTML/CSS,JavaScript
+44295,35-44y,Netherlands,Something else,HTML/CSS,HTML/CSS
+14364,35-44y,Ukraine,Study wo degree,JavaScript,HTML/CSS
+51263,35-44y,USA,Secondary School,TypeScript,Swift
+15451,25-34y,Spain,Master’s degree,Python,SQL
+46310,25-34y,New Zealand,Bachelor’s degree,Python,R
+31604,18-24y,Indonesia,Bachelor’s degree,Python,JavaScript
+41616,18-24y,Russia,Secondary School,Lua,PowerShell
+52328,45-54y,Italy,Secondary School,PowerShell,C#
+6531,35-44y,Chile,Bachelor’s degree,Bash/Shell (all shells),Kotlin
+50535,35-44y,UK,Master’s degree,C++,Rust
+26052,Under 18y,Germany,Secondary School,Swift,SQL
+10041,35-44y,Norway,Bachelor’s degree,SQL,PowerShell
+12483,35-44y,France,Master’s degree,C,Assembly
+38906,25-34y,Austria,Master’s degree,SQL,Rust
+2015,45-54y,Canada,Associate degree,Groovy,Go
+48305,25-34y,Germany,Bachelor’s degree,Python,SQL
+7402,35-44y,Czechia,Master’s degree,C++,C++
+14701,Under 18y,Malaysia,Primary school,Cobol,C
+30569,18-24y,Canada,Study wo degree,C++,Ruby
+30530,45-54y,Germany,Study wo degree,SQL,SQL
+688,18-24y,Brazil,Study wo degree,Ruby,C
+64057,45-54y,UK,Study wo degree,Bash/Shell (all shells),Bash/Shell (all shells)
+30346,18-24y,Chile,Master’s degree,HTML/CSS,C
+25376,25-34y,Indonesia,Study wo degree,Bash/Shell (all shells),Visual Basic (.Net)
+36011,35-44y,Spain,Master’s degree,PowerShell,C#
+22628,25-34y,USA,Study wo degree,JavaScript,Lua
+59048,18-24y,Unknown,Unknown,MATLAB,Python
+59312,45-54y,USA,Associate degree,HTML/CSS,Python
+50488,25-34y,Germany,Master’s degree,PHP,JavaScript
+54049,45-54y,Angola,Bachelor’s degree,VBA,HTML/CSS
+42328,18-24y,USA,Bachelor’s degree,PowerShell,Crystal
+10032,25-34y,Taiwan,Master’s degree,C#,TypeScript
+38367,55-64y,Netherlands,Associate degree,JavaScript,Bash/Shell (all shells)
+28452,25-34y,Austria,Associate degree,JavaScript,SQL
+11830,Under 18y,Australia,Professional degree,Lisp,Swift
+34860,18-24y,USA,Associate degree,JavaScript,Zig
+64639,18-24y,Belarus,Bachelor’s degree,C#,Go
+40399,18-24y,Austria,Study wo degree,PowerShell,Python
+18766,25-34y,Switzerland,Master’s degree,Kotlin,Bash/Shell (all shells)
+7672,35-44y,Germany,Bachelor’s degree,PHP,Swift
+32886,Under 18y,China,Secondary School,Swift,Swift
+49960,Under 18y,Netherlands,Secondary School,Erlang,Elixir
+12421,45-54y,Indonesia,Master’s degree,Perl,Rust
+40522,45-54y,Denmark,Study wo degree,Ruby,Go
+6146,45-54y,USA,Study wo degree,Perl,Python
+30890,Under 18y,USA,Secondary School,Dart,GDScript
+27966,35-44y,France,Master’s degree,C#,C#
+16383,35-44y,Germany,Master’s degree,Visual Basic (.Net),HTML/CSS
+47494,45-54y,UK,Study wo degree,HTML/CSS,HTML/CSS
+45377,25-34y,USA,Study wo degree,C++,PHP
+22486,18-24y,USA,Bachelor’s degree,JavaScript,HTML/CSS
+65253,35-44y,USA,Bachelor’s degree,C,Go
+26320,35-44y,Germany,Master’s degree,Lua,Lua
+1452,35-44y,Germany,Master’s degree,Python,JavaScript
+27557,18-24y,Pakistan,Associate degree,HTML/CSS,Go
+16964,18-24y,Ukraine,Master’s degree,Java,Rust
+35917,25-34y,Germany,Secondary School,C++,C++
+35579,55-64y,USA,Study wo degree,JavaScript,HTML/CSS
+25684,45-54y,Indonesia,Master’s degree,GDScript,VBA
+20871,35-44y,USA,Bachelor’s degree,Bash/Shell (all shells),Bash/Shell (all shells)
+15796,18-24y,France,Bachelor’s degree,PHP,HTML/CSS
+38713,18-24y,Canada,Bachelor’s degree,Bash/Shell (all shells),Go
+18277,45-54y,Germany,Professional degree,Python,C++
+57858,25-34y,USA,Master’s degree,C++,Assembly
+54014,Under 18y,USA,Secondary School,JavaScript,C
+9820,25-34y,USA,Study wo degree,Bash/Shell (all shells),Python
+19330,35-44y,UK,Study wo degree,Bash/Shell (all shells),SQL
+18808,25-34y,Brazil,Associate degree,TypeScript,SQL
+39324,35-44y,Australia,Master’s degree,HTML/CSS,TypeScript
+25233,18-24y,India,Bachelor’s degree,Rust,JavaScript
+6370,35-44y,USA,Study wo degree,TypeScript,JavaScript
+42602,35-44y,USA,Master’s degree,PowerShell,Clojure
+61474,55-64y,UK,Master’s degree,C++,C++
+23234,55-64y,USA,Professional degree,C++,Bash/Shell (all shells)
+6418,35-44y,USA,Bachelor’s degree,JavaScript,TypeScript
+40789,35-44y,UK,Master’s degree,Bash/Shell (all shells),Scala
+15967,25-34y,Canada,Study wo degree,PHP,Groovy
+34910,18-24y,Mauritania,Bachelor’s degree,Python,PowerShell
+51946,25-34y,France,Master’s degree,Dart,SQL
+18773,18-24y,UAE,Associate degree,SQL,Swift
+8013,25-34y,Austria,Master’s degree,Bash/Shell (all shells),Swift
+10500,35-44y,Philippines,Bachelor’s degree,SQL,SQL
+17767,35-44y,USA,Master’s degree,JavaScript,SQL
+50918,35-44y,Netherlands,Master’s degree,Python,SQL
+7850,25-34y,Canada,Associate degree,Swift,Objective-C
+32076,Under 18y,France,Primary school,JavaScript,JavaScript
+1365,35-44y,Germany,Secondary School,JavaScript,JavaScript
+50559,45-54y,Australia,Professional degree,C#,Perl
+58001,18-24y,Australia,Study wo degree,Python,C
+21768,35-44y,UK,Bachelor’s degree,C#,TypeScript
+45588,35-44y,New Zealand,Bachelor’s degree,Bash/Shell (all shells),Rust
+48130,25-34y,Moldova,Master’s degree,Python,SQL
+31719,25-34y,India,Bachelor’s degree,Go,HTML/CSS
+7334,18-24y,Czechia,Study wo degree,PowerShell,F#
+2330,25-34y,UK,Master’s degree,HTML/CSS,Bash/Shell (all shells)
+853,35-44y,USA,Master’s degree,TypeScript,JavaScript
+26670,25-34y,India,Bachelor’s degree,TypeScript,SQL
+19490,45-54y,USA,Bachelor’s degree,C#,PHP
+30593,35-44y,Germany,Bachelor’s degree,HTML/CSS,Elixir
+17088,25-34y,France,Associate degree,GDScript,SQL
+61978,18-24y,Unknown,Unknown,Assembly,Swift
+40686,45-54y,India,Master’s degree,PowerShell,Python
+21291,45-54y,Jordan,Bachelor’s degree,JavaScript,SQL
+1840,65y+,USA,Professional degree,SQL,None
+57806,45-54y,Canada,Bachelor’s degree,Lisp,Groovy
+58744,18-24y,India,Bachelor’s degree,TypeScript,Rust
+35404,25-34y,Germany,Secondary School,C#,TypeScript
+19150,35-44y,Canada,Study wo degree,JavaScript,Go
+9597,35-44y,Australia,Master’s degree,HTML/CSS,Python
+40085,45-54y,Canada,Master’s degree,Python,Bash/Shell (all shells)
+33364,18-24y,Tanzania,Study wo degree,SQL,Rust
+7317,35-44y,Turkey,Master’s degree,HTML/CSS,Go
+35560,Under 18y,Slovakia,Primary school,C#,SQL
+56655,55-64y,Belgium,Master’s degree,HTML/CSS,Go
+52441,25-34y,UK,Bachelor’s degree,TypeScript,JavaScript
+192,35-44y,Bulgaria,Study wo degree,JavaScript,PowerShell
+35766,25-34y,USA,Bachelor’s degree,Java,Go
+14011,25-34y,Germany,Bachelor’s degree,HTML/CSS,JavaScript
+15849,18-24y,Ukraine,Bachelor’s degree,Kotlin,HTML/CSS
+2898,25-34y,Bolivia,Bachelor’s degree,Java,Go
+19255,45-54y,USA,Bachelor’s degree,C#,C++
+13886,35-44y,Belgium,Master’s degree,Ruby,Python
+10650,55-64y,Germany,Master’s degree,Java,PowerShell
+34535,35-44y,UK,Master’s degree,HTML/CSS,VBA
+54924,18-24y,Croatia,Secondary School,C++,Clojure
+39734,25-34y,Bulgaria,Bachelor’s degree,HTML/CSS,C#
+32213,18-24y,India,Bachelor’s degree,Perl,R
+55118,18-24y,Switzerland,Bachelor’s degree,C#,C#
+25112,25-34y,Ethiopia,Bachelor’s degree,PowerShell,Ruby
+23274,18-24y,Switzerland,Associate degree,JavaScript,TypeScript
+24047,18-24y,Netherlands,Bachelor’s degree,C#,C
+26213,35-44y,Saudi Arabia,Bachelor’s degree,C,PHP

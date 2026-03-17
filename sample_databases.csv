@@ -1,0 +1,301 @@
+ResponseId,Age,Country,EdLevel,DatabaseHaveWorkedWith,DatabaseWantToWorkWith
+25684,45-54y,Indonesia,Master’s degree,Cockroachdb,Redis
+28485,25-34y,France,Master’s degree,MariaDB,MySQL
+2674,25-34y,USA,Master’s degree,SQLite,Redis
+10223,25-34y,Angola,Bachelor’s degree,PostgreSQL,Cosmos DB
+42920,18-24y,Pakistan,Bachelor’s degree,MySQL,H2
+64701,35-44y,Unknown,Unknown,Cosmos DB,Microsoft Access
+28734,18-24y,UK,Study wo degree,TiDB,Cockroachdb
+44147,25-34y,USA,Bachelor’s degree,Oracle,Microsoft SQL Server
+11667,45-54y,Venezuela,Master’s degree,MongoDB,MySQL
+56537,25-34y,Austria,Master’s degree,Cosmos DB,PostgreSQL
+62649,25-34y,Unknown,Unknown,Couch DB,PostgreSQL
+17883,35-44y,USA,Study wo degree,SQLite,PostgreSQL
+13848,35-44y,Thailand,Bachelor’s degree,Microsoft SQL Server,Microsoft SQL Server
+2506,45-54y,Denmark,Bachelor’s degree,MySQL,Redis
+51908,25-34y,USA,Bachelor’s degree,MySQL,PostgreSQL
+17024,25-34y,Netherlands,Master’s degree,Couch DB,PostgreSQL
+62130,25-34y,Kenya,Bachelor’s degree,MongoDB,None
+11889,45-54y,Nigeria,Master’s degree,BigQuery,Presto
+37529,18-24y,Serbia,Bachelor’s degree,MySQL,MongoDB
+45971,35-44y,Portugal,Master’s degree,SQLite,MySQL
+20987,25-34y,Egypt,Bachelor’s degree,MySQL,None
+18031,35-44y,Canada,Master’s degree,Cloud Firestore,Microsoft SQL Server
+60752,45-54y,Unknown,Unknown,Couchbase,Cockroachdb
+53180,25-34y,Italy,Bachelor’s degree,SQLite,Redis
+20379,25-34y,Poland,Bachelor’s degree,Redis,PostgreSQL
+52855,25-34y,India,Bachelor’s degree,Redis,BigQuery
+6263,18-24y,France,Master’s degree,PostgreSQL,Redis
+54431,18-24y,Argentina,Study wo degree,Firebase Realtime Database,None
+10235,35-44y,India,Bachelor’s degree,MySQL,BigQuery
+29055,25-34y,Ukraine,Bachelor’s degree,PostgreSQL,Redis
+60815,18-24y,Mexico,Primary school,Microsoft SQL Server,Firebase Realtime Database
+51252,18-24y,Germany,Secondary School,MariaDB,MariaDB
+31796,25-34y,Romania,Bachelor’s degree,Elasticsearch,SQLite
+63398,25-34y,Portugal,Professional degree,None,None
+27162,25-34y,India,Bachelor’s degree,MySQL,SQLite
+11889,45-54y,Nigeria,Master’s degree,EventStoreDB,TiDB
+33099,35-44y,Spain,Professional degree,Oracle,BigQuery
+52429,35-44y,UK,Master’s degree,Redis,Redis
+52417,18-24y,India,Bachelor’s degree,SQLite,MongoDB
+39560,35-44y,Spain,Bachelor’s degree,MariaDB,MariaDB
+61756,25-34y,Unknown,Unknown,SQLite,SQLite
+42889,18-24y,Germany,Study wo degree,Microsoft SQL Server,None
+33373,35-44y,Saudi Arabia,Bachelor’s degree,InfluxDB,InfluxDB
+32851,35-44y,USA,Bachelor’s degree,Clickhouse,SQLite
+38391,35-44y,Poland,Bachelor’s degree,Microsoft SQL Server,SQLite
+32097,25-34y,India,Bachelor’s degree,PostgreSQL,Oracle
+24910,45-54y,Poland,Master’s degree,Redis,PostgreSQL
+36278,35-44y,USA,Master’s degree,MongoDB,Databricks SQL
+13532,18-24y,Germany,Secondary School,Redis,MySQL
+57806,45-54y,Canada,Bachelor’s degree,Snowflake,PostgreSQL
+2788,25-34y,Indonesia,Bachelor’s degree,SQLite,BigQuery
+8676,25-34y,USA,Bachelor’s degree,PostgreSQL,BigQuery
+18877,35-44y,Germany,Study wo degree,SQLite,MariaDB
+57362,18-24y,Germany,Secondary School,MongoDB,Redis
+11396,25-34y,Bangladesh,Bachelor’s degree,Elasticsearch,Dynamodb
+15274,35-44y,Slovenia,Bachelor’s degree,BigQuery,BigQuery
+62656,25-34y,Unknown,Unknown,Oracle,Oracle
+678,45-54y,Spain,Master’s degree,MariaDB,MySQL
+58500,35-44y,India,Master’s degree,MySQL,IBM DB2
+36025,35-44y,USA,Bachelor’s degree,Dynamodb,SQLite
+53625,18-24y,Poland,Secondary School,SQLite,SQLite
+33276,45-54y,Canada,Bachelor’s degree,BigQuery,PostgreSQL
+31598,35-44y,Turkey,Bachelor’s degree,MySQL,SQLite
+25409,35-44y,Germany,Secondary School,MySQL,Solr
+50759,18-24y,India,Bachelor’s degree,SQLite,MongoDB
+31361,45-54y,Bulgaria,Master’s degree,IBM DB2,MariaDB
+43170,18-24y,Kenya,Something else,Microsoft SQL Server,Cosmos DB
+54655,35-44y,Lithuania,Master’s degree,PostgreSQL,Cosmos DB
+26991,25-34y,Turkey,Secondary School,Snowflake,MongoDB
+50691,18-24y,India,Bachelor’s degree,PostgreSQL,Cockroachdb
+62169,25-34y,Unknown,Unknown,None,None
+39270,Under 18y,UK,Something else,PostgreSQL,SQLite
+17626,65y+,India,Bachelor’s degree,Microsoft Access,MySQL
+22580,35-44y,USA,Study wo degree,Presto,InfluxDB
+16418,25-34y,Ukraine,Master’s degree,SQLite,Elasticsearch
+42240,25-34y,Zimbabwe,Study wo degree,MongoDB,Supabase
+17097,45-54y,Philippines,Study wo degree,MySQL,Cockroachdb
+36589,18-24y,Peru,Bachelor’s degree,SQLite,MongoDB
+46564,25-34y,Canada,Something else,Microsoft Access,Presto
+48093,35-44y,Poland,Master’s degree,Redis,MongoDB
+12965,25-34y,Netherlands,Master’s degree,PostgreSQL,MongoDB
+31653,25-34y,India,Master’s degree,MySQL,MySQL
+57692,25-34y,USA,Bachelor’s degree,MySQL,Redis
+23061,25-34y,India,Master’s degree,Microsoft SQL Server,Neo4J
+10223,25-34y,Angola,Bachelor’s degree,PostgreSQL,MongoDB
+30673,18-24y,Germany,Bachelor’s degree,Elasticsearch,Redis
+1393,25-34y,Canada,Bachelor’s degree,Elasticsearch,Clickhouse
+52071,25-34y,Germany,Master’s degree,SQLite,Elasticsearch
+18692,25-34y,Ukraine,Master’s degree,Oracle,Elasticsearch
+2118,35-44y,Nigeria,Master’s degree,MariaDB,Microsoft SQL Server
+1251,35-44y,Czechia,Bachelor’s degree,Redis,MySQL
+45204,25-34y,Colombia,Master’s degree,MySQL,Microsoft SQL Server
+18144,25-34y,USA,Bachelor’s degree,MongoDB,Firebase Realtime Database
+25001,25-34y,Canada,Master’s degree,SQLite,BigQuery
+48268,45-54y,Ukraine,Master’s degree,PostgreSQL,PostgreSQL
+31678,25-34y,Indonesia,Associate degree,PostgreSQL,MySQL
+32710,18-24y,USA,Bachelor’s degree,Microsoft SQL Server,PostgreSQL
+42472,35-44y,USA,Study wo degree,MongoDB,MySQL
+59418,25-34y,USA,Study wo degree,SQLite,PostgreSQL
+25574,25-34y,Rwanda,Bachelor’s degree,MySQL,Dynamodb
+26678,65y+,North Korea,Professional degree,MongoDB,MariaDB
+53270,18-24y,India,Bachelor’s degree,Redis,IBM DB2
+27450,25-34y,Kyrgyzstan,Master’s degree,Presto,PostgreSQL
+42406,35-44y,Thailand,Primary school,Redis,Datomic
+45061,25-34y,Brazil,Bachelor’s degree,PostgreSQL,PostgreSQL
+12695,25-34y,India,Master’s degree,Redis,Cockroachdb
+723,18-24y,India,Bachelor’s degree,Firebase Realtime Database,PostgreSQL
+59045,45-54y,Bahrain,Bachelor’s degree,PostgreSQL,MongoDB
+35517,18-24y,Nigeria,Secondary School,Firebase Realtime Database,MongoDB
+51732,35-44y,USA,Bachelor’s degree,Cockroachdb,PostgreSQL
+34654,18-24y,Germany,Study wo degree,Microsoft SQL Server,MySQL
+11281,18-24y,Ukraine,Bachelor’s degree,Dynamodb,PostgreSQL
+34190,18-24y,USA,Master’s degree,Cassandra,MariaDB
+21128,18-24y,Canada,Bachelor’s degree,Redis,Cloud Firestore
+9256,35-44y,Brazil,Bachelor’s degree,Oracle,Oracle
+41702,25-34y,Viet Nam,Master’s degree,MongoDB,Microsoft SQL Server
+5282,35-44y,Georgia,Master’s degree,Dynamodb,Clickhouse
+24914,18-24y,Ukraine,Bachelor’s degree,Firebase Realtime Database,PostgreSQL
+45357,25-34y,Greece,Master’s degree,Redis,Firebase Realtime Database
+42352,25-34y,Canada,Secondary School,MySQL,Microsoft SQL Server
+64341,25-34y,Unknown,Unknown,None,None
+49667,25-34y,Algeria,Study wo degree,SQLite,Cosmos DB
+26718,35-44y,Netherlands,Bachelor’s degree,SQLite,SQLite
+26941,18-24y,USA,Study wo degree,Dynamodb,Redis
+51787,25-34y,Australia,Study wo degree,PostgreSQL,MariaDB
+28428,18-24y,Brazil,Associate degree,Dynamodb,MySQL
+31719,25-34y,India,Bachelor’s degree,Oracle,Microsoft SQL Server
+26448,35-44y,Israel,Master’s degree,PostgreSQL,Dynamodb
+18926,18-24y,Iran,Primary school,MariaDB,MariaDB
+56895,25-34y,UAE,Bachelor’s degree,BigQuery,Cosmos DB
+39470,25-34y,Netherlands,Master’s degree,PostgreSQL,Supabase
+23660,35-44y,Germany,Study wo degree,Elasticsearch,Redis
+51506,55-64y,Spain,Master’s degree,SQLite,MySQL
+15387,25-34y,Angola,Master’s degree,PostgreSQL,MySQL
+18609,25-34y,Australia,Bachelor’s degree,PostgreSQL,Dynamodb
+13839,35-44y,Brazil,Study wo degree,MariaDB,MySQL
+63999,18-24y,Unknown,Unknown,SQLite,MongoDB
+32853,18-24y,USA,Bachelor’s degree,SQLite,MariaDB
+29043,45-54y,Switzerland,Master’s degree,MariaDB,Redis
+3687,18-24y,Iran,Associate degree,MySQL,SQLite
+23625,45-54y,France,Master’s degree,Microsoft SQL Server,Dynamodb
+17251,35-44y,Germany,Study wo degree,Couch DB,Solr
+45612,25-34y,Germany,Master’s degree,PostgreSQL,Cloud Firestore
+34960,18-24y,Pakistan,Bachelor’s degree,Cassandra,Elasticsearch
+13421,18-24y,Malawi,Associate degree,Supabase,Cosmos DB
+8827,35-44y,UK,Bachelor’s degree,PostgreSQL,SQLite
+49336,35-44y,USA,Study wo degree,Snowflake,SQLite
+16304,25-34y,Ukraine,Master’s degree,Redis,MongoDB
+52344,25-34y,France,Master’s degree,PostgreSQL,Clickhouse
+49935,35-44y,Russia,Bachelor’s degree,SQLite,PostgreSQL
+39531,18-24y,Iraq,Bachelor’s degree,SQLite,Supabase
+17502,45-54y,USA,Master’s degree,MySQL,Oracle
+5333,25-34y,Brazil,Bachelor’s degree,Cloud Firestore,Redis
+36181,18-24y,USA,Bachelor’s degree,PostgreSQL,MySQL
+9129,35-44y,USA,Study wo degree,Presto,Microsoft SQL Server
+14017,25-34y,Pakistan,Bachelor’s degree,MongoDB,MongoDB
+18422,45-54y,France,Professional degree,MySQL,Firebird
+26363,25-34y,Japan,Bachelor’s degree,PostgreSQL,MySQL
+40622,25-34y,India,Master’s degree,Firebase Realtime Database,Cosmos DB
+39584,45-54y,Canada,Master’s degree,Microsoft SQL Server,Microsoft SQL Server
+18768,35-44y,USA,Study wo degree,Microsoft SQL Server,Cassandra
+5700,25-34y,France,Master’s degree,Dynamodb,Dynamodb
+15709,25-34y,Pakistan,Bachelor’s degree,MariaDB,Elasticsearch
+37420,35-44y,Belgium,Master’s degree,InfluxDB,Databricks SQL
+30342,25-34y,Germany,Study wo degree,MariaDB,SQLite
+47484,35-44y,France,Master’s degree,Redis,PostgreSQL
+60752,45-54y,Unknown,Unknown,Cassandra,Snowflake
+28814,35-44y,USA,Associate degree,Elasticsearch,Snowflake
+50534,25-34y,Colombia,Bachelor’s degree,Microsoft SQL Server,PostgreSQL
+13173,25-34y,Belgium,Master’s degree,MySQL,MongoDB
+17598,18-24y,India,Bachelor’s degree,MongoDB,PostgreSQL
+28812,18-24y,Viet Nam,Something else,MongoDB,Snowflake
+4876,25-34y,Russia,Master’s degree,SQLite,Elasticsearch
+44814,35-44y,Austria,Master’s degree,PostgreSQL,SQLite
+14732,18-24y,Italy,Secondary School,MySQL,None
+5103,Under 18y,India,Primary school,MySQL,PostgreSQL
+14261,18-24y,Mauritius,Study wo degree,Firebase Realtime Database,InfluxDB
+11140,Under 18y,USA,Primary school,SQLite,MariaDB
+9649,18-24y,Dominican Republic,Bachelor’s degree,SQLite,SQLite
+27217,18-24y,India,Master’s degree,SQLite,Oracle
+5303,25-34y,Belgium,Bachelor’s degree,SQLite,MySQL
+4499,45-54y,USA,Bachelor’s degree,MariaDB,PostgreSQL
+36630,25-34y,USA,Bachelor’s degree,MySQL,Elasticsearch
+11889,45-54y,Nigeria,Master’s degree,Cosmos DB,Supabase
+31071,18-24y,Turkey,Secondary School,PostgreSQL,Couch DB
+3931,18-24y,Kenya,Bachelor’s degree,SQLite,MySQL
+44247,65y+,USA,Bachelor’s degree,MySQL,MariaDB
+15375,25-34y,Slovakia,Master’s degree,MySQL,Clickhouse
+17833,25-34y,USA,Bachelor’s degree,Dynamodb,PostgreSQL
+48418,25-34y,Indonesia,Bachelor’s degree,SQLite,SQLite
+49641,25-34y,Cameroon,Bachelor’s degree,MariaDB,MariaDB
+63201,18-24y,India,Something else,Cosmos DB,Dynamodb
+10179,35-44y,Italy,Bachelor’s degree,Elasticsearch,SQLite
+31598,35-44y,Turkey,Bachelor’s degree,DuckDB,Firebird
+4490,25-34y,Isle of Man,Bachelor’s degree,MySQL,MongoDB
+25584,25-34y,India,Professional degree,SQLite,MySQL
+28723,35-44y,New Zealand,Study wo degree,MySQL,MySQL
+5769,25-34y,USA,Study wo degree,Cosmos DB,Redis
+11938,55-64y,USA,Professional degree,Redis,Oracle
+19007,35-44y,Uzbekistan,Master’s degree,PostgreSQL,PostgreSQL
+8072,18-24y,Belgium,Bachelor’s degree,MongoDB,MySQL
+42339,35-44y,Canada,Bachelor’s degree,SQLite,SQLite
+2782,55-64y,New Zealand,Master’s degree,Snowflake,Snowflake
+55219,18-24y,India,Bachelor’s degree,H2,None
+64610,25-34y,Pakistan,Master’s degree,PostgreSQL,Oracle
+54558,25-34y,Sweden,Master’s degree,SQLite,PostgreSQL
+53470,45-54y,USA,Associate degree,Redis,Cloud Firestore
+58176,25-34y,India,Bachelor’s degree,Microsoft Access,SQLite
+3235,Under 18y,Ukraine,Primary school,SQLite,PostgreSQL
+3642,25-34y,Ukraine,Professional degree,InfluxDB,Clickhouse
+45545,25-34y,Denmark,Master’s degree,Redis,Redis
+25005,18-24y,USA,Bachelor’s degree,MongoDB,Snowflake
+13273,25-34y,Sweden,Bachelor’s degree,MongoDB,Dynamodb
+39494,25-34y,Germany,Study wo degree,MongoDB,SQLite
+27780,25-34y,India,Bachelor’s degree,MongoDB,MongoDB
+21121,35-44y,Germany,Study wo degree,MongoDB,Microsoft SQL Server
+36190,25-34y,Paraguay,Study wo degree,Redis,SQLite
+30442,45-54y,Argentina,Professional degree,MariaDB,Microsoft SQL Server
+63761,18-24y,Unknown,Unknown,Microsoft SQL Server,Microsoft SQL Server
+38590,18-24y,Pakistan,Secondary School,SQLite,PostgreSQL
+41035,35-44y,Spain,Master’s degree,PostgreSQL,PostgreSQL
+6848,45-54y,USA,Study wo degree,Microsoft SQL Server,SQLite
+19060,25-34y,USA,Master’s degree,Dynamodb,PostgreSQL
+21503,35-44y,Czechia,Professional degree,MySQL,MongoDB
+54357,18-24y,India,Bachelor’s degree,MySQL,Cassandra
+16910,25-34y,France,Master’s degree,PostgreSQL,PostgreSQL
+20136,25-34y,India,Bachelor’s degree,MongoDB,Microsoft SQL Server
+53877,18-24y,Russia,Study wo degree,MongoDB,MongoDB
+40802,25-34y,USA,Bachelor’s degree,InfluxDB,Dynamodb
+48829,25-34y,Mexico,Bachelor’s degree,Redis,PostgreSQL
+34805,18-24y,India,Bachelor’s degree,MySQL,MongoDB
+26494,25-34y,India,Bachelor’s degree,Elasticsearch,Supabase
+14722,25-34y,Bulgaria,Secondary School,Redis,PostgreSQL
+34190,18-24y,USA,Master’s degree,Oracle,PostgreSQL
+43782,45-54y,Germany,Master’s degree,PostgreSQL,PostgreSQL
+9654,35-44y,USA,Master’s degree,SQLite,MariaDB
+31574,18-24y,India,Master’s degree,MongoDB,SQLite
+5829,45-54y,USA,Professional degree,InfluxDB,TiDB
+59759,35-44y,South Africa,Master’s degree,PostgreSQL,Couchbase
+16343,25-34y,Ukraine,Professional degree,Elasticsearch,MongoDB
+47463,18-24y,Switzerland,Associate degree,MariaDB,PostgreSQL
+20321,18-24y,Ukraine,Bachelor’s degree,MySQL,PostgreSQL
+54676,35-44y,Germany,Master’s degree,MariaDB,Solr
+50785,45-54y,Austria,Professional degree,None,None
+5780,45-54y,Canada,Study wo degree,PostgreSQL,Cloud Firestore
+25439,35-44y,Spain,Professional degree,BigQuery,Cloud Firestore
+48628,25-34y,Germany,Bachelor’s degree,PostgreSQL,H2
+11938,55-64y,USA,Professional degree,Snowflake,IBM DB2
+11889,45-54y,Nigeria,Master’s degree,Microsoft SQL Server,RavenDB
+13300,18-24y,Colombia,Study wo degree,MongoDB,SQLite
+1085,25-34y,Italy,Master’s degree,Microsoft SQL Server,MariaDB
+49645,25-34y,Canada,Master’s degree,MySQL,Snowflake
+45028,55-64y,New Zealand,Associate degree,MySQL,MariaDB
+48093,35-44y,Poland,Master’s degree,Microsoft SQL Server,Redis
+52874,25-34y,Singapore,Master’s degree,None,None
+39812,35-44y,Germany,Bachelor’s degree,Cassandra,MongoDB
+19992,25-34y,South Korea,Bachelor’s degree,PostgreSQL,None
+45397,35-44y,USA,Master’s degree,Elasticsearch,MongoDB
+64993,25-34y,Canada,Associate degree,Snowflake,BigQuery
+27820,18-24y,Poland,Study wo degree,MariaDB,MariaDB
+52238,35-44y,Italy,Master’s degree,Cassandra,Dynamodb
+19277,55-64y,USA,Professional degree,SQLite,SQLite
+5479,25-34y,South Korea,Study wo degree,Redis,PostgreSQL
+54929,45-54y,Estonia,Study wo degree,Redis,Redis
+63593,25-34y,Unknown,Unknown,Presto,Cosmos DB
+32332,25-34y,Slovenia,Master’s degree,Microsoft SQL Server,MongoDB
+27032,45-54y,USA,Bachelor’s degree,Microsoft SQL Server,Microsoft SQL Server
+11076,25-34y,Israel,Bachelor’s degree,MongoDB,None
+26332,18-24y,Pakistan,Bachelor’s degree,MariaDB,SQLite
+47313,45-54y,France,Bachelor’s degree,Elasticsearch,MySQL
+60243,35-44y,USA,Bachelor’s degree,MariaDB,Cassandra
+20513,35-44y,Bulgaria,Study wo degree,MariaDB,MariaDB
+31562,18-24y,India,Bachelor’s degree,H2,Databricks SQL
+9470,18-24y,Spain,Study wo degree,Firebase Realtime Database,MariaDB
+20826,35-44y,USA,Bachelor’s degree,Elasticsearch,Supabase
+47150,25-34y,Netherlands,Master’s degree,Cloud Firestore,Elasticsearch
+8486,35-44y,Bulgaria,Bachelor’s degree,PostgreSQL,Databricks SQL
+48450,35-44y,Germany,Professional degree,Dynamodb,PostgreSQL
+24308,25-34y,India,Master’s degree,MySQL,Cloud Firestore
+43568,25-34y,USA,Study wo degree,MySQL,SQLite
+20857,25-34y,Spain,Professional degree,Oracle,PostgreSQL
+42798,35-44y,USA,Bachelor’s degree,Cosmos DB,Cosmos DB
+8066,35-44y,Turkey,Bachelor’s degree,MongoDB,PostgreSQL
+10853,18-24y,India,Bachelor’s degree,PostgreSQL,Neo4J
+8368,25-34y,South Africa,Bachelor’s degree,MySQL,PostgreSQL
+6709,35-44y,Canada,Bachelor’s degree,Dynamodb,SQLite
+17893,35-44y,USA,Bachelor’s degree,PostgreSQL,PostgreSQL
+18997,25-34y,Ukraine,Master’s degree,Dynamodb,Elasticsearch
+51338,25-34y,Canada,Bachelor’s degree,Oracle,Neo4J
+21290,18-24y,Italy,Study wo degree,Redis,None
+49081,45-54y,USA,Study wo degree,SQLite,PostgreSQL
+50761,18-24y,Turkey,Secondary School,Cloud Firestore,PostgreSQL
+31637,18-24y,Thailand,Bachelor’s degree,Oracle,PostgreSQL
+57070,18-24y,Viet Nam,Study wo degree,Cassandra,PostgreSQL
+8203,25-34y,Spain,Master’s degree,Redis,MySQL
+58704,18-24y,India,Secondary School,Snowflake,Couchbase
+2378,35-44y,Jordan,Associate degree,MySQL,Redis
+29980,18-24y,India,Bachelor’s degree,Cloud Firestore,MySQL
+38439,25-34y,USA,Associate degree,DuckDB,Redis
+27500,18-24y,Spain,Bachelor’s degree,MySQL,SQLite

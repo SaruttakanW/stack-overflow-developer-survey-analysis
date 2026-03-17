@@ -1,0 +1,301 @@
+ResponseId,Age,Country,EdLevel,WebframeHaveWorkedWith,WebframeWantToWorkWith
+50318,35-44y,USA,Bachelor’s degree,Next.js,Angular
+18132,25-34y,Greece,Master’s degree,Next.js,FastAPI
+43421,25-34y,Canada,Bachelor’s degree,React,React
+33778,18-24y,France,Secondary School,None,None
+13662,18-24y,Colombia,Study wo degree,Node.js,ASP.NET CORE
+23644,25-34y,Ukraine,Associate degree,jQuery,ASP.NET CORE
+11742,35-44y,USA,Master’s degree,None,None
+45255,35-44y,Colombia,Bachelor’s degree,Laravel,Drupal
+24021,25-34y,Poland,Master’s degree,React,Next.js
+17376,35-44y,Indonesia,Bachelor’s degree,Node.js,Astro
+17397,35-44y,Venezuela,Study wo degree,Express,Angular
+13218,35-44y,Ethiopia,Bachelor’s degree,jQuery,Laravel
+27960,35-44y,France,Professional degree,jQuery,Drupal
+21411,35-44y,Italy,Professional degree,FastAPI,Nuxt.js
+45472,35-44y,South Africa,Study wo degree,React,Htmx
+36132,25-34y,Germany,Bachelor’s degree,Deno,Deno
+59221,35-44y,USA,Bachelor’s degree,Node.js,jQuery
+39160,35-44y,Czechia,Master’s degree,Node.js,ASP.NET CORE
+46410,35-44y,USA,Bachelor’s degree,Htmx,Node.js
+55076,25-34y,Bangladesh,Bachelor’s degree,NestJS,ASP.NET CORE
+55307,18-24y,Switzerland,Something else,Express,Node.js
+53316,25-34y,France,Master’s degree,Node.js,Spring Boot
+33472,18-24y,Iraq,Study wo degree,Express,Node.js
+32071,18-24y,Poland,Study wo degree,NestJS,ASP.NET CORE
+42942,25-34y,Czechia,Secondary School,Next.js,Htmx
+17646,35-44y,Germany,Master’s degree,Spring Boot,Node.js
+47960,25-34y,Spain,Bachelor’s degree,Node.js,Spring Boot
+52101,25-34y,Saudi Arabia,Bachelor’s degree,React,Laravel
+9393,25-34y,Indonesia,Bachelor’s degree,Svelte,Vue.js
+24958,25-34y,USA,Bachelor’s degree,jQuery,React
+21566,45-54y,Canada,Bachelor’s degree,WordPress,Ruby on Rails
+9627,Under 18y,USA,Primary school,ASP.NET,Blazor
+25066,18-24y,USA,Bachelor’s degree,Django,Htmx
+40989,25-34y,Turkey,Bachelor’s degree,Vue.js,Angular
+48533,35-44y,Sweden,Bachelor’s degree,Node.js,Express
+3871,18-24y,Malaysia,Bachelor’s degree,Laravel,React
+25321,25-34y,Finland,Bachelor’s degree,ASP.NET CORE,Htmx
+27925,25-34y,USA,Bachelor’s degree,ASP.NET,Svelte
+50789,35-44y,Australia,Bachelor’s degree,Vue.js,Strapi
+30282,35-44y,Netherlands,Master’s degree,None,None
+21948,25-34y,Belgium,Bachelor’s degree,AngularJS,Solid.js
+51265,25-34y,Brazil,Study wo degree,Node.js,Express
+7418,18-24y,India,Bachelor’s degree,React,NestJS
+19000,25-34y,India,Bachelor’s degree,Flask,FastAPI
+23848,18-24y,Germany,Secondary School,Node.js,Phoenix
+15967,25-34y,Canada,Study wo degree,Angular,Strapi
+60900,35-44y,Unknown,Master’s degree,React,React
+18638,25-34y,India,Bachelor’s degree,Symfony,Symfony
+25275,25-34y,India,Bachelor’s degree,Remix,None
+53493,35-44y,India,Bachelor’s degree,Spring Boot,React
+4464,25-34y,Kuwait,Bachelor’s degree,React,Node.js
+18706,25-34y,France,Bachelor’s degree,Node.js,Astro
+31747,18-24y,Bangladesh,Bachelor’s degree,jQuery,WordPress
+40070,25-34y,USA,Bachelor’s degree,ASP.NET,Svelte
+20020,18-24y,France,Master’s degree,Blazor,Blazor
+2519,25-34y,Argentina,Associate degree,Express,Angular
+36273,25-34y,USA,Bachelor’s degree,Node.js,FastAPI
+15622,45-54y,Philippines,Bachelor’s degree,AngularJS,WordPress
+51036,25-34y,Germany,Bachelor’s degree,Express,WordPress
+60752,45-54y,Unknown,Unknown,NestJS,Blazor
+27704,35-44y,France,Master’s degree,Node.js,Node.js
+31452,25-34y,Ghana,Bachelor’s degree,Angular,Solid.js
+13209,25-34y,Ghana,Bachelor’s degree,ASP.NET CORE,Next.js
+56323,25-34y,Unknown,Unknown,None,None
+15296,25-34y,Japan,Bachelor’s degree,Nuxt.js,Laravel
+64621,35-44y,Italy,Secondary School,Symfony,None
+50474,18-24y,Bosnia and Herzegovina,Bachelor’s degree,FastAPI,Astro
+33586,35-44y,Bosnia and Herzegovina,Bachelor’s degree,Node.js,Play Framework
+8136,25-34y,Turkey,Bachelor’s degree,Flask,Next.js
+26163,45-54y,Canada,Secondary School,jQuery,ASP.NET
+63056,25-34y,Canada,Bachelor’s degree,Node.js,Nuxt.js
+36901,45-54y,Argentina,Something else,Node.js,Flask
+13305,35-44y,Hungary,Bachelor’s degree,Spring Boot,Spring Boot
+52619,25-34y,Australia,Master’s degree,React,FastAPI
+2959,25-34y,Nigeria,Bachelor’s degree,FastAPI,FastAPI
+26451,25-34y,Argentina,Study wo degree,Express,React
+42701,Under 18y,Canada,Something else,Express,Node.js
+35755,18-24y,South Africa,Bachelor’s degree,Express,Deno
+7515,18-24y,France,Master’s degree,React,React
+53485,35-44y,Unknown,Bachelor’s degree,jQuery,Laravel
+29394,25-34y,India,Bachelor’s degree,React,React
+50719,35-44y,France,Bachelor’s degree,Angular,Angular
+61747,25-34y,Unknown,Unknown,Angular,Express
+34990,18-24y,Czechia,Bachelor’s degree,React,Node.js
+52392,18-24y,Bulgaria,Study wo degree,Express,NestJS
+63408,25-34y,Unknown,Study wo degree,None,None
+4421,45-54y,UK,Bachelor’s degree,CodeIgniter,WordPress
+7905,35-44y,Australia,Primary school,Laravel,Laravel
+52612,35-44y,Portugal,Master’s degree,Node.js,Node.js
+40794,18-24y,Netherlands,Bachelor’s degree,Strapi,Next.js
+48010,25-34y,Moldova,Study wo degree,Next.js,React
+49583,18-24y,Unknown,Unknown,React,React
+3823,18-24y,Afghanistan,Secondary School,Node.js,React
+45524,35-44y,USA,Bachelor’s degree,Flask,None
+34409,Under 18y,Sweden,Secondary School,Flask,Vue.js
+59815,25-34y,Sweden,Master’s degree,Node.js,Node.js
+3584,35-44y,Netherlands,Bachelor’s degree,Node.js,Spring Boot
+3145,18-24y,Czechia,Study wo degree,ASP.NET,Vue.js
+26660,18-24y,Austria,Secondary School,React,Astro
+34122,18-24y,Turkey,Bachelor’s degree,Node.js,Next.js
+25164,18-24y,USA,Study wo degree,None,None
+16295,35-44y,Ukraine,Master’s degree,Node.js,Angular
+26809,18-24y,Spain,Bachelor’s degree,Express,Astro
+31018,25-34y,Mexico,Study wo degree,Express,Deno
+24190,25-34y,Austria,Professional degree,Blazor,ASP.NET CORE
+54466,45-54y,Belgium,Bachelor’s degree,ASP.NET,ASP.NET CORE
+37728,25-34y,India,Bachelor’s degree,React,Spring Boot
+65221,25-34y,Turkey,Secondary School,WordPress,Node.js
+57609,18-24y,Romania,Study wo degree,ASP.NET CORE,ASP.NET CORE
+60815,18-24y,Mexico,Primary school,Elm,Vue.js
+17401,35-44y,USA,Study wo degree,React,Nuxt.js
+55532,18-24y,Poland,Bachelor’s degree,Phoenix,Node.js
+40520,Prefer not to say,USA,Study wo degree,jQuery,Drupal
+18999,25-34y,Canada,Bachelor’s degree,Node.js,Node.js
+36217,18-24y,UK,Secondary School,ASP.NET CORE,None
+6261,25-34y,Turkey,Bachelor’s degree,React,Next.js
+24769,25-34y,USA,Bachelor’s degree,WordPress,Strapi
+42701,Under 18y,Canada,Something else,WordPress,Express
+14851,18-24y,Denmark,Secondary School,ASP.NET,React
+55473,18-24y,Germany,Secondary School,WordPress,React
+8856,18-24y,Canada,Bachelor’s degree,ASP.NET,Express
+17077,45-54y,Ukraine,Master’s degree,None,None
+52970,35-44y,Germany,Master’s degree,Django,Django
+65111,35-44y,Unknown,Bachelor’s degree,Node.js,Remix
+20676,25-34y,Ukraine,Master’s degree,React,React
+48425,25-34y,France,Master’s degree,NestJS,React
+5593,25-34y,Canada,Bachelor’s degree,React,React
+10456,18-24y,India,Bachelor’s degree,Node.js,NestJS
+26455,18-24y,India,Secondary School,React,Solid.js
+11938,55-64y,USA,Professional degree,WordPress,ASP.NET
+44118,18-24y,USA,Bachelor’s degree,Next.js,Next.js
+24290,25-34y,Germany,Master’s degree,Node.js,NestJS
+26678,65y+,North Korea,Professional degree,NestJS,Spring Boot
+16243,45-54y,USA,Master’s degree,Node.js,Node.js
+42406,35-44y,Thailand,Primary school,Remix,AngularJS
+32414,18-24y,Greece,Study wo degree,React,Node.js
+49582,25-34y,Bangladesh,Bachelor’s degree,Next.js,NestJS
+32342,25-34y,Ukraine,Professional degree,Next.js,Next.js
+61970,25-34y,UK,Bachelor’s degree,Play Framework,Htmx
+53470,45-54y,USA,Associate degree,Yii 2,Django
+15077,25-34y,USA,Bachelor’s degree,ASP.NET CORE,Svelte
+54064,45-54y,Australia,Associate degree,jQuery,Laravel
+34655,25-34y,Greece,Master’s degree,ASP.NET,Express
+23632,18-24y,Sweden,Associate degree,AngularJS,Express
+665,25-34y,Iran,Master’s degree,Angular,React
+41192,18-24y,Indonesia,Bachelor’s degree,Django,WordPress
+54546,25-34y,Unknown,Unknown,React,Fastify
+52065,25-34y,Bulgaria,Something else,Django,Play Framework
+23950,35-44y,Serbia,Study wo degree,FastAPI,FastAPI
+10755,25-34y,Ukraine,Master’s degree,FastAPI,Django
+41490,25-34y,Sierra Leone,Bachelor’s degree,Angular,None
+34340,25-34y,USA,Study wo degree,Next.js,Node.js
+26036,25-34y,Ukraine,Master’s degree,Express,Node.js
+23916,25-34y,UK,Bachelor’s degree,React,Ruby on Rails
+50943,45-54y,Israel,Study wo degree,jQuery,Angular
+43334,35-44y,USA,Master’s degree,React,React
+9879,45-54y,Finland,Secondary School,Svelte,FastAPI
+42593,18-24y,USA,Master’s degree,jQuery,FastAPI
+13423,25-34y,Ukraine,Master’s degree,ASP.NET,Django
+4747,18-24y,Ukraine,Bachelor’s degree,Express,ASP.NET CORE
+18706,25-34y,France,Bachelor’s degree,Angular,Laravel
+21850,35-44y,Germany,Bachelor’s degree,ASP.NET,jQuery
+53831,35-44y,UK,Bachelor’s degree,ASP.NET CORE,ASP.NET CORE
+52998,35-44y,USA,Bachelor’s degree,FastAPI,Node.js
+13598,18-24y,Germany,Secondary School,Ruby on Rails,Nuxt.js
+8776,25-34y,Germany,Study wo degree,jQuery,React
+22375,25-34y,Japan,Master’s degree,Node.js,Node.js
+43971,18-24y,Norway,Something else,ASP.NET CORE,ASP.NET
+31641,18-24y,China,Study wo degree,ASP.NET CORE,React
+46592,18-24y,Unknown,Unknown,Vue.js,Flask
+55682,25-34y,Unknown,Unknown,jQuery,Flask
+5108,18-24y,Canada,Bachelor’s degree,React,FastAPI
+56430,25-34y,Australia,Something else,Drupal,Next.js
+48855,25-34y,Brazil,Bachelor’s degree,React,React
+28183,25-34y,Greece,Master’s degree,Angular,React
+52590,Prefer not to say,Canada,Study wo degree,Angular,Angular
+15984,25-34y,Brazil,Bachelor’s degree,Fastify,Angular
+7499,35-44y,Germany,Secondary School,Angular,Angular
+28462,25-34y,Portugal,Bachelor’s degree,ASP.NET CORE,None
+36652,25-34y,Morocco,Bachelor’s degree,Flask,Solid.js
+55440,18-24y,USA,Bachelor’s degree,Ruby on Rails,Ruby on Rails
+22352,25-34y,Ukraine,Master’s degree,Node.js,Next.js
+41534,25-34y,Chile,Master’s degree,FastAPI,Spring Boot
+57350,55-64y,Netherlands,Master’s degree,ASP.NET CORE,ASP.NET CORE
+52531,18-24y,Russia,Bachelor’s degree,Vue.js,Flask
+21641,25-34y,USA,Study wo degree,Django,Flask
+30475,25-34y,Canada,Bachelor’s degree,Elm,Elm
+24990,25-34y,USA,Bachelor’s degree,FastAPI,Htmx
+29753,25-34y,France,Master’s degree,NestJS,Angular
+1990,25-34y,France,Master’s degree,Nuxt.js,Node.js
+21558,55-64y,Canada,Bachelor’s degree,Express,Express
+56547,25-34y,Czechia,Study wo degree,Node.js,FastAPI
+5741,45-54y,France,Study wo degree,Laravel,Node.js
+9949,35-44y,Bulgaria,Master’s degree,Angular,Angular
+31940,18-24y,Netherlands,Bachelor’s degree,Svelte,Svelte
+20085,25-34y,Poland,Master’s degree,Angular,Express
+39741,35-44y,USA,Bachelor’s degree,Node.js,Deno
+59111,25-34y,India,Bachelor’s degree,Node.js,Next.js
+55434,25-34y,USA,Bachelor’s degree,Node.js,ASP.NET CORE
+63201,18-24y,India,Something else,Svelte,Astro
+56737,25-34y,Germany,Secondary School,Vue.js,ASP.NET CORE
+40049,35-44y,USA,Study wo degree,Node.js,React
+42951,18-24y,Spain,Master’s degree,AngularJS,jQuery
+50809,18-24y,France,Master’s degree,Svelte,Next.js
+15306,18-24y,USA,Bachelor’s degree,Astro,Solid.js
+31790,25-34y,India,Bachelor’s degree,Flask,Vue.js
+30121,Under 18y,India,Secondary School,Express,React
+49693,18-24y,Australia,Secondary School,React,Next.js
+20990,45-54y,USA,Bachelor’s degree,Spring Boot,ASP.NET CORE
+28074,65y+,USA,Master’s degree,ASP.NET,ASP.NET
+27075,25-34y,Bangladesh,Bachelor’s degree,WordPress,Express
+60444,25-34y,Unknown,Unknown,Laravel,Next.js
+43673,35-44y,USA,Study wo degree,Django,Htmx
+32984,18-24y,USA,Bachelor’s degree,Next.js,Express
+48127,25-34y,Iran,Master’s degree,ASP.NET CORE,Next.js
+40324,35-44y,Mexico,Bachelor’s degree,React,AngularJS
+30906,18-24y,Slovenia,Study wo degree,Solid.js,NestJS
+12799,25-34y,Ethiopia,Bachelor’s degree,Solid.js,WordPress
+6625,25-34y,USA,Master’s degree,React,None
+1886,35-44y,USA,Bachelor’s degree,Express,Node.js
+43098,18-24y,India,Bachelor’s degree,React,Node.js
+7109,25-34y,UK,Bachelor’s degree,ASP.NET,Gatsby
+21525,35-44y,USA,Professional degree,Laravel,CodeIgniter
+18017,25-34y,Brazil,Bachelor’s degree,Angular,Vue.js
+9866,18-24y,India,Bachelor’s degree,None,None
+12243,25-34y,Hong Kong,Master’s degree,Vue.js,Solid.js
+41823,25-34y,France,Master’s degree,Angular,Angular
+5096,25-34y,Austria,Master’s degree,React,NestJS
+35274,25-34y,Australia,Study wo degree,Svelte,None
+52388,35-44y,UK,Master’s degree,Django,WordPress
+23731,18-24y,Italy,Bachelor’s degree,Node.js,React
+13999,18-24y,Ukraine,Bachelor’s degree,Gatsby,FastAPI
+15967,25-34y,Canada,Study wo degree,WordPress,Htmx
+14192,25-34y,Greece,Study wo degree,React,ASP.NET
+16240,35-44y,Saudi Arabia,Study wo degree,Angular,Flask
+2676,35-44y,USA,Bachelor’s degree,Elm,Elm
+59690,25-34y,USA,Bachelor’s degree,WordPress,Gatsby
+29966,18-24y,India,Bachelor’s degree,ASP.NET,React
+44479,25-34y,Norway,Master’s degree,ASP.NET CORE,Remix
+13017,18-24y,Romania,Bachelor’s degree,React,Node.js
+12588,25-34y,Hungary,Master’s degree,React,React
+11128,18-24y,India,Bachelor’s degree,Django,jQuery
+7721,25-34y,Italy,Professional degree,Htmx,Fastify
+44185,25-34y,USA,Bachelor’s degree,Express,Vue.js
+60147,35-44y,Unknown,Unknown,None,None
+14368,Under 18y,USA,Secondary School,Express,Nuxt.js
+15112,Under 18y,Germany,Secondary School,React,Vue.js
+46259,25-34y,UK,Study wo degree,Node.js,Htmx
+55395,18-24y,Bangladesh,Bachelor’s degree,jQuery,jQuery
+20628,18-24y,Nigeria,Bachelor’s degree,Fastify,FastAPI
+16122,35-44y,Spain,Study wo degree,Next.js,Solid.js
+10678,25-34y,Croatia,Master’s degree,Django,FastAPI
+47203,Under 18y,Unknown,Unknown,Node.js,Django
+40929,18-24y,Ukraine,Master’s degree,Fastify,Angular
+41187,18-24y,USA,Study wo degree,WordPress,Htmx
+6332,25-34y,Germany,Secondary School,AngularJS,Vue.js
+30232,Under 18y,USA,Secondary School,Node.js,None
+20962,25-34y,Australia,Bachelor’s degree,React,ASP.NET CORE
+36791,35-44y,Spain,Bachelor’s degree,Express,Flask
+28829,Under 18y,Canada,Study wo degree,Node.js,Flask
+15967,25-34y,Canada,Study wo degree,Spring Boot,Angular
+53649,25-34y,USA,Master’s degree,React,React
+7978,25-34y,Italy,Study wo degree,Express,Nuxt.js
+7926,25-34y,Cyprus,Master’s degree,Node.js,ASP.NET CORE
+15401,35-44y,Ukraine,Master’s degree,Angular,Vue.js
+44622,25-34y,Germany,Associate degree,Node.js,Node.js
+28022,25-34y,USA,Bachelor’s degree,Next.js,Htmx
+21466,65y+,USA,Master’s degree,None,None
+35603,35-44y,Portugal,Master’s degree,Express,Svelte
+62656,25-34y,Unknown,Unknown,React,Vue.js
+43381,35-44y,USA,Bachelor’s degree,AngularJS,Blazor
+20927,18-24y,Tunisia,Master’s degree,React,React
+29163,25-34y,Italy,Bachelor’s degree,Next.js,Node.js
+46511,35-44y,USA,Associate degree,Node.js,Express
+19245,45-54y,USA,Bachelor’s degree,Node.js,Blazor
+141,25-34y,India,Bachelor’s degree,WordPress,Next.js
+39685,18-24y,Nomadic,Bachelor’s degree,jQuery,Django
+59131,35-44y,USA,Master’s degree,Angular,Fastify
+15303,45-54y,Brazil,Professional degree,Phoenix,Svelte
+56851,35-44y,Portugal,Study wo degree,Next.js,WordPress
+25784,18-24y,Brazil,Study wo degree,NestJS,React
+19357,18-24y,Denmark,Study wo degree,Symfony,Next.js
+52045,35-44y,Bulgaria,Bachelor’s degree,Node.js,Htmx
+13790,35-44y,Dominican Republic,Study wo degree,Flask,Htmx
+39078,55-64y,Mexico,Study wo degree,Ruby on Rails,Ruby on Rails
+17364,18-24y,Switzerland,Bachelor’s degree,Express,Express
+7041,25-34y,Pakistan,Bachelor’s degree,Vue.js,Laravel
+34858,35-44y,France,Bachelor’s degree,WordPress,Symfony
+16770,25-34y,Sweden,Master’s degree,Vue.js,ASP.NET CORE
+25283,65y+,Japan,Professional degree,Fastify,Fastify
+3291,25-34y,India,Bachelor’s degree,Express,Strapi
+48902,35-44y,USA,Bachelor’s degree,React,Node.js
+11889,45-54y,Nigeria,Master’s degree,jQuery,Blazor
+7519,25-34y,Lithuania,Bachelor’s degree,Node.js,Angular
+26941,18-24y,USA,Study wo degree,Express,Deno
+22580,35-44y,USA,Study wo degree,Vue.js,Django
+8820,25-34y,USA,Study wo degree,jQuery,Vue.js
+51759,35-44y,USA,Bachelor’s degree,jQuery,Spring Boot
+53662,25-34y,Poland,Study wo degree,Express,Node.js
+59206,25-34y,Pakistan,Bachelor’s degree,Node.js,None
