@@ -11,7 +11,7 @@ This project analyzes a subset of the Stack Overflow Developer Survey dataset us
 - Present findings through an IBM Cognos dashboard
 
 ## Dataset
-This project uses a subset of the Stack Overflow Developer Survey dataset.
+This project uses a subset of the `Stack Overflow Developer Survey dataset`.
 The full dataset is not included due to file size limitations. Sample datasets are provided in the `data/` folder.
 
 ## Tools
@@ -22,6 +22,6 @@ The full dataset is not included due to file size limitations. Sample datasets a
 
 ## Repository Structure
 
-data/ → raw and cleaned dataset
-notebooks/ → data cleaning notebook
-visuals/ → dashboard 
+`data/` → raw and cleaned dataset
+`notebooks/` → data cleaning notebook
+`visuals/` → dashboard 
