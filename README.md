@@ -22,6 +22,6 @@ The full dataset is not included due to file size limitations. Sample datasets a
 
 ## Repository Structure
 
-- `data/` → raw and cleaned dataset
+- `data/` → sample raw and cleaned dataset
 - `notebooks/` → data cleaning notebook
 - `visuals/` → dashboard 
