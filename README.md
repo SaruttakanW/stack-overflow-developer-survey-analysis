@@ -20,6 +20,13 @@ The full dataset is not included due to file size limitations. Sample datasets a
 - Jupyter Notebook
 - IBM Cognos Analytics
 
+## Key Insights
+- JavaScript remains the most widely used programming language, while Python is the most desired, indicating strong future growth.
+- PostgreSQL is both the most used and most desired database.
+- Cloud platforms dominate development, with AWS leading in both usage and demand.
+- Modern JavaScript frameworks play a central role in web development trends.
+- Most respondents are around 25 to 34 years old, suggesting a predominantly early- to mid-career workforce.
+
 ## Repository Structure
 
 - `data/` → sample raw and cleaned dataset
